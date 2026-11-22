@@ -1,5 +1,5 @@
 {
-  "remarks": "Rextron Connect-Activity",
+  "remarks": "Rextron Connect-ActivityFix",
   "inbounds": [
     {
       "listen": "127.0.0.1",
@@ -46,7 +46,7 @@
       },
       "streamSettings": {
         "hysteriaSettings": {
-          "auth": "6172596983:0efa375f415d8042",
+          "auth": "5808967883:57f02232fc745e7e",
           "version": 2
         },
         "network": "hysteria",
