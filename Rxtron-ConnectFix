@@ -1,5 +1,5 @@
 {
-  "remarks": "Rextron Connect-ActivityFix",
+  "remarks": "Rextron-Connect (Aimbot)",
   "inbounds": [
     {
       "listen": "127.0.0.1",
