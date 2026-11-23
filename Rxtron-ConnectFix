@@ -1,5 +1,5 @@
 {
-  "remarks": "Rextron-Connect (Aimbot)",
+  "remarks": "Rextron-Connect — [Aimbot]",
   "inbounds": [
     {
       "listen": "127.0.0.1",
@@ -46,7 +46,7 @@
       },
       "streamSettings": {
         "hysteriaSettings": {
-          "auth": "5808967883:57f02232fc745e7e",
+          "auth": "6101755667:0efa375f415d8042",
           "version": 2
         },
         "network": "hysteria",
