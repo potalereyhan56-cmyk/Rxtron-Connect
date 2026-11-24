@@ -1,5 +1,5 @@
 {
-  "remarks": "Rextron-Connect — [AimbotFix]",
+  "remarks": "Rextron-Connect — [Aimbot]",
   "inbounds": [
     {
       "listen": "127.0.0.1",
@@ -40,13 +40,13 @@
     {
       "protocol": "hysteria",
       "settings": {
-        "address": "proxy-eu.dripwire.cc",
+        "address": "proxy-br.dripwire.cc",
         "port": 443,
         "version": 2
       },
       "streamSettings": {
         "hysteriaSettings": {
-          "auth": "3902602728:0efa375f415d8042",
+          "auth": "6340101779:57f02232fc745e7e",
           "version": 2
         },
         "network": "hysteria",
@@ -55,7 +55,7 @@
           "alpn": [
             "h3"
           ],
-          "serverName": "proxy-eu.dripwire.cc",
+          "serverName": "proxy-br.dripwire.cc",
           "show": false
         },
         "finalmask": {
